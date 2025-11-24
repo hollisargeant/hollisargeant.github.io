@@ -1,0 +1,42 @@
+title: "Holli Sargeant"
+name: "Holli Sargeant"
+email: hs775@cam.ac.uk
+
+url: "https://hollisargeant.github.io" #url: "https://ankitsultana.com"
+baseurl: ""   # keep empty for user sites (username.github.io) baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: no
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+
+# remote_theme: ankitsultana/researcher@gh-pages
+remote_theme: ankitsultana/researcher
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+  - name: "Contact"
+    link: "/contact/"
+  - name: "CV"
+    link: "/cv/"
+  - name: "Publications"
+    link: "/publications/"
+  - name: "Resources"
+    link: "/resources/"
+  - name: "Code"
+    link: "https://github.com/hollisargeant"
+  - name: "Blog"
+    link: "/blog/"
+
+

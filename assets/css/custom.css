@@ -1,0 +1,205 @@
+/* =========================
+   Typography & Layout
+   ========================= */
+:root{
+  --text:#111;
+  --muted:#666;
+  --link:#0a66c2;
+  --rule:#e6e6e6;
+  --colw:800px;      /* content width */
+  --padx:1.5rem;     /* side padding */
+}
+
+html{ font-size:16px; }
+html { scrollbar-gutter: stable; }
+
+body{
+  font-family:"Lora", Georgia, serif;
+  font-weight:400;
+  line-height:1.8;
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  text-rendering:optimizeLegibility;
+  margin:0;
+  background:#fff;
+}
+
+/* Main centered column */
+.container{
+  max-width:var(--colw);
+  margin:0 auto;
+  padding:0 var(--padx) 4rem;
+}
+
+/* Headings (Playfair Display) */
+h1,h2,h3,h4{
+  font-family:"Playfair Display","Lora",Georgia,serif;
+  font-weight:600;
+  line-height:1.25;
+  color:var(--text);
+  margin:2rem 0 .75rem;
+}
+h1{ font-size:2.1rem; letter-spacing:-0.02em; }
+
+/* Section headings */
+h2 {
+  font-size: 1.4rem;
+  letter-spacing: -0.01em;
+  margin: 2.5rem 0 0.75rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin: 1.8rem 0 0.5rem;
+}
+
+/* Slightly more breathing room after header section */
+.header-section {
+  margin-bottom: 3rem;
+}
+
+
+/* Body text */
+p,li{ font-size:1.05rem; }
+strong,b{ font-weight:600; letter-spacing:.001em; }
+em,i{ font-style:italic; }
+small,.muted{ color:var(--muted); }
+
+/* Links */
+a{ color:var(--link); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+a:focus{ outline:2px solid rgba(10,102,194,.3); outline-offset:2px; }
+
+/* Minimal inline nav */
+#.site-nav{ margin:0 0 .75rem; padding:0; list-style:none; font-size:.95rem; }
+#.site-nav li{ display:inline; }
+#.site-nav li+li::before{ content:" / "; color:var(--muted); margin:0 .25rem; }
+
+/* --- Centered top navigation under name --- */
+.site-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 1rem;
+  text-align: center;              /* centers the inline items */
+}
+
+.site-nav li {
+  display: inline-block;           /* inline-block keeps spacing tidy */
+  margin: 0 0.4rem;                /* even horizontal spacing */
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-family: "Lora", Georgia, serif;
+  font-size: 1.05rem;
+  transition: color 0.2s ease;
+}
+
+.site-nav a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+
+
+/* Divider */
+.header-section .rule {
+  width: 80%;
+  max-width: 420px;
+  margin: 1.25rem auto 2rem;
+  background: var(--rule);
+  border: 0;
+  height: 1px;
+}
+
+/* Images */
+img{ max-width:100%; height:auto; }
+.profile-picture{
+  width:100%;
+  max-width:480px;       /* adjust to taste */
+  height:auto;
+  border-radius:16px;    /* set to 50% if you want a circle */
+  object-fit:cover;
+  display:block;
+  margin:0 auto 2rem;
+}
+
+/* Header: centered block (image + intro) */
+.header-section{
+  text-align:center;
+  margin-bottom:2.5rem;
+}
+.header-section .profile-picture { width: 100%; max-width: 480px; height: auto; border-radius: 16px; object-fit: cover; display: block; margin: 0 auto 2rem; }
+
+.header-name a {
+  color: inherit;              /* keeps the same color */
+  text-decoration: none;       /* removes underline */
+  cursor: pointer;             /* keeps normal click behaviour */
+}
+
+.header-name a:hover,
+.header-name a:focus {
+  color: inherit;              /* don’t change color on hover */
+  text-decoration: none;       /* no underline on hover */
+}
+
+/* Body: left-aligned text inside centered column */
+main p,
+main ul,
+main ol,
+main h2,
+main h3,
+main h4{
+  text-align:left;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+/* Section lists */
+.section ul{ margin:.25rem 0 1rem 1.25rem; }
+.section li{ margin:.2rem 0; }
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+footer .rule {
+  width: 80%;
+  max-width: 420px;
+  margin: 0 auto;
+  background: var(--rule);
+  border: 0;
+  height: 1px;
+}
+
+/* Tables & code (basic, readable) */
+table{ width:100%; border-collapse:collapse; margin:1rem 0; }
+td,th{ border-top:1px solid var(--rule); paddi
+
+      .pub-badge{
+  display: inline-block;
+  font-size: 0.72rem;
+  padding: 0.08rem 0.45rem;
+  margin-left: 0.45rem;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  opacity: 0.75;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  white-space: nowrap;
+}
+
+/* optional subtle color by type */
+.pub-badge--conference   { color: #2b6cb0; } /* blue */
+.pub-badge--journal      { color: #2f855a; } /* green */
+.pub-badge--book-chapter     { color: #805ad5; } /* purple */
+.pub-badge--workshop { color: #b7791f; } /* ochre */
+.pub-badge--policy-report{ color: #c05621; } /* rusty orange */
+.pub-badge--preprint     { color: #718096; } /* grey */
+.pub-badge--law-review   { color: #cc0000; } /* deep red */

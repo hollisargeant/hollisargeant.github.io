@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {% seo %}
+
+  <!-- Fonts + your CSS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:opsz,wght@10..72,400;10..72,500;10..72,600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer>
+    <hr class="rule" />
+  </footer>
+</body>
+</html>
