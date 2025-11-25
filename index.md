@@ -42,6 +42,21 @@ title: "Holli Sargeant"
   St John’s College announced the election of new Research Fellows.  
   <a href="https://www.joh.cam.ac.uk/about-us/news-and-research/academics-in-the-arts-humanities-and-sciences-join-st-johns-fellowship" target="_blank">[Read the announcement ↗︎]</a>
 
+## Recent publications
+- **Detecting Legal Citations in United Kingdom Court Judgments**. *EMNLP 2025*.  
+  Sargeant, Östling, Magnusson. [[DOI ↗︎]](https://doi.org/10.18653/v1/2025.emnlp-main.1361)
+  
+- **Formalising Anti-Discrimination Law in Automated Decision Systems**. *FAccT 2025*.  
+  Sargeant, Magnusson. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732015)
+  
+- **Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden**. *FAccT 2025*.  
+  Sargeant, Waldetoft, Magnusson. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732016)
+  
+- **Topic classification of case law using a large language model and a new taxonomy for UK law: AI insights into summary judgment**. *AI & Law* (2025).  
+  Sargeant, Izzidien, Steffek. [[DOI ↗︎]](https://doi.org/10.1007/s10506-025-09434-0)
+
+[Full list →](/publications/)
+
 ## Talks & events
 
 <!-- - 🎤 **(Upcoming) Workshop: New Technology, AI & Equality — University of Southampton**  
@@ -68,14 +83,3 @@ title: "Holli Sargeant"
 
 [More talks →](/talks/)
 
-## Recent publications
-- **Detecting Legal Citations in United Kingdom Court Judgments**. *EMNLP 2025*.  
-  Sargeant, Östling, Magnusson. [[DOI ↗︎]](https://doi.org/10.18653/v1/2025.emnlp-main.1361)
-- **Formalising Anti-Discrimination Law in Automated Decision Systems**. *FAccT 2025*.  
-  Sargeant, Magnusson. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732015)
-- **Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden**. *FAccT 2025*.  
-  Sargeant, Waldetoft, Magnusson. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732016)
-- **Topic classification of case law using a large language model and a new taxonomy for UK law: AI insights into summary judgment**. *AI & Law* (2025).  
-  Sargeant, Izzidien, Steffek. [[DOI ↗︎]](https://doi.org/10.1007/s10506-025-09434-0)
-
-[Full list →](/publications/)
