@@ -27,8 +27,6 @@ My research examines the legal and ethical implications of algorithmic decision-
 **Select Preprints:**  
 *From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law*. [[SSRN ↗︎]](https://dx.doi.org/10.2139/ssrn.5283387)
 
-*Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR*. [Draft available on request].
-
 ## AI & Access to Justice
 
 Beyond the regulation of algorithms, I study how AI tools are reshaping the legal system itself. My work looks at the tensions between rights-based approaches to justice and the real-world effects of using AI in the legal system. A central focus of this work is how legal frameworks, such as professional ethics and rule of law principles, should guide the digitalisation of the justice system to ensure it operates in the interests of the people it serves. 
