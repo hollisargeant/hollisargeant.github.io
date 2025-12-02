@@ -18,6 +18,8 @@ permalink: /contact/
 <hr class="rule" />
 </div>
 
+I am not currently taking on thesis supervisions, and I do not have any paid RA positions available. Still, I’m always happy to hear from prospective collaborators whose research interests intersect closely with mine. If you see a clear alignment with my work and would like to discuss possible collaborative directions, please feel free to reach out.
+
 📧 hs775 at cam dot ac dot uk  
 🦋 <a href="https://bsky.app/profile/hollisargeant.bsky.social">hollisargeant.bsky.social</a> 
 
