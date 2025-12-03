@@ -20,7 +20,7 @@ permalink: /talks/
 
 ## Upcoming
 
-- **(Upcoming) Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law - New Technology, AI & Equality Workshop**  
+- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law - New Technology, AI & Equality Workshop**  
   *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
 
 - **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
