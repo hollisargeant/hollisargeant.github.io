@@ -18,20 +18,22 @@ permalink: /research/
 <hr class="rule" />
 </div>
 
-My work examines how artificial intelligence is reshaping legal systems, decision-making, and societal accountability. I study both the design of AI systems and the legal frameworks that govern them, with a focus on equality, accountability, and trust. Much of my research combines legal analysis with methods from normative theory, statistics and machine learning. My current work has three connected areas: regulating algorithmic decision-making, evaluating AI's impact on access to justice, and building the infrastructure for computational legal research.
+I am a <a href="https://www.joh.cam.ac.uk/research/academics/fellows/dr-holli-sargeant" target="_blank">Research Fellow in Law at St John’s College, University of Cambridge</a>. My work occupies the critical intersection of law and artificial intelligence. I study how algorithmic systems shape fairness, discrimination, and accountability, and how legal frameworks must evolve to ensure responsible and ethical AI deployment.
 
-## Legal & Ethical Algorithmic Decision-Making
+My research is inherently interdisciplinary, integrating methods from law, statistics, and machine learning with normative and economic theory. I focus on three connected areas:
 
-My research examines the legal and ethical implications of algorithmic decision-making. I concentrate on the necessity for existing legal frameworks—specifically anti-discrimination and data protection laws—to adapt in order to regulate high-stakes automated decisions. This research aims to create legal and technical frameworks that reduce discrimination, support transparency, and ensure responsible AI governance.
+1. **Responsible Regulation**
 
-**Select Preprints:**  
-*From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law*. [[SSRN ↗︎]](https://dx.doi.org/10.2139/ssrn.5283387)
+My research investigates the necessity for existing legal frameworks, specifically anti-discrimination and data protection laws, to adapt to high-stakes algorithmic decisions. I work to develop robust legal and technical frameworks that mitigate unlawful discrimination, support transparency and ensure accountability for high-stakes algorithmic decision systems.
 
-## AI & Access to Justice
+2. **Access to Justice**
 
-Beyond the regulation of algorithms, I study how AI tools are reshaping the legal system itself. My work looks at the tensions between rights-based approaches to justice and the real-world effects of using AI in the legal system. A central focus of this work is how legal frameworks, such as professional ethics and rule of law principles, should guide the digitalisation of the justice system to ensure it operates in the interests of the people it serves. 
+Beyond regulation, I study how AI tools are reshaping the justice system itself. This work highlights the tensions between rights-based approaches to justice and the pragmatic effects of deploying AI in legal contexts. I focus on how professional ethics and rule of law principles must guide the digitalisation of the justice system to ensure it remains centered on the interests of the people it serves, balancing efficiency with fairness and due process. 
 
-## Legal NLP & Infrastructure
-To understand the law through computational and empirical methods, we need better datasets, tools, and legally-informed methods. I co-led the creation of the **Cambridge Law Corpus**, a large-scale, machine-readable dataset of UK case law, published at NeurIPS 2023 [[Östling et al., 2023]](https://doi.org/10.5555/3666122.3667915), which is available to academic researchers [[Project page ↗︎]](https://www.cst.cam.ac.uk/research/srg/projects/law). With my co-authors, we continue to develop the resource by enriching it with structured information and improving its suitability for empirical legal research.
+<!-- > Evidence Review Project with Nuffield Foundation [[Page ↗︎]]() -->
 
-<!-- A current focus is the automatic detection and modelling of legal citations in UK judgments, as presented in our recent EMNLP paper [[Sargeant et al., 2025]](https://doi.org/10.18653/v1/2025.emnlp-main.1361). I also use the corpus as a foundation for broader empirical studies of the legal system. This includes research on case outcome prediction for Employment Tribunal cases [[Sargeant & Steffek, 2024]](https://doi.org/10.53292/33313cc8.26dded33) and creating new taxonomies and topic classification methods for UK case law [[Sargeant et al., 2025]](https://doi.org/10.1007/s10506-025-09434-0). -->
+3. **Computational Legal Infrastructure**
+
+To understand the law through computational and empirical methods, we need better datasets, tools, and legally-informed methods. I co-led the creation of the Cambridge Law Corpus, a large-scale, machine-readable dataset of UK case law [[Published at NeurIPS'23 ↗︎]](https://doi.org/10.5555/3666122.3667915). We continue to enrich this corpus with structured information to improve its utitlity for computational legal research. 
+
+> **Details of the Cambridge Law Corpus:** [[Project Page ↗︎]](https://www.cst.cam.ac.uk/research/srg/projects/law)
