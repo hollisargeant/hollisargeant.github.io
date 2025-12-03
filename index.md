@@ -59,9 +59,8 @@ title: "Holli Sargeant"
 
 ## Talks & events
 
-<!-- - 🎤 **(Upcoming) Workshop: New Technology, AI & Equality — University of Southampton**  
-  Invited speaker at a one-day interdisciplinary workshop examining algorithmic bias, equality law, and regulatory responses to AI harms.  
-  *University of Southampton — 15 April 2026* -->
+- 🎤 **(Upcoming) Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law - New Technology, AI & Equality Workshop**  
+  *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
 
 - 🎤 **(Upcoming) AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
   *University of Cambridge — November 2025*  
