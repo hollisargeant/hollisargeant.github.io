@@ -22,11 +22,9 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 
 ## Articles
 
-<!-- 
 **Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR**.<br>
-*Computer Law & Security Review (2025)*<br>
-<u>Holli Sargeant</u>.<br>
-[[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> -->
+*Computer Law & Security Review, 60, 106247 (2025)* [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> 
+<u>Holli Sargeant</u>. 
 
 <!-- **The Law and Ethics of Legal AI Datasets: Creating the Cambridge Law Corpus**.<br> 
 *Cambridge Law Journal (2025).*<br> 
