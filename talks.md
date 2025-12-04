@@ -20,7 +20,7 @@ permalink: /talks/
 
 ## Upcoming
 
-- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law - New Technology, AI & Equality Workshop**  
+- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — New Technology, AI & Equality Workshop**  
   *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
 
 - **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
@@ -35,7 +35,7 @@ permalink: /talks/
 - **AI and the Future Legal Profession: Foundations of Legal AI**  
   *University of Cambridge — October 2025* [[Event page ↗︎]](https://www.law.cam.ac.uk/press/events/2025/10/ai-and-future-legal-profession-foundations-legal-ai)
 
--  **Cambridge Law Corpus - Legal Data Access and Open Infrastructure Roundtable**  
+-  **Cambridge Law Corpus — Legal Data Access and Open Infrastructure Roundtable**  
     *McGill University (Online) - September 2025* 
     
 - **Legal and Ethical Issues in LawTech Applications — AI, Law & Access to Justice Festival**  
