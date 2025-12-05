@@ -44,7 +44,7 @@ title: "Holli Sargeant"
 
 ## Recent publications
 - **Mind the gap: Securing algorithmic explainability for credit decisions beyond the UK GDPR**. *CS&LR* (2026).  
-  Sargeant. [[DOI ↗︎]]((https://doi.org/10.1016/j.clsr.2025.106247))
+  Sargeant. [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)
 
 - **Detecting Legal Citations in United Kingdom Court Judgments**. *EMNLP 2025*.  
   Sargeant, Östling, Magnusson. [[DOI ↗︎]](https://doi.org/10.18653/v1/2025.emnlp-main.1361)
