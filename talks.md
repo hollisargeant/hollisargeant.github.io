@@ -43,4 +43,7 @@ permalink: /talks/
 
 - **Presented two first-author papers at FAccT 2025 (Athens)**  
   *FAccT - June 2025*  
-  Presented two papers on algorithmic discrimination and legal evaluations of ML classifiers. 
+  Presented two papers on algorithmic discrimination and legal evaluations of ML classifiers.  
+  [[Presentation on Classifying Hate ↗︎]](https://youtu.be/iTlBDnqURcY?si=0RztC3HSPCRXH8G-) [[Presentation on Formalising Discrimination ↗︎]](https://youtu.be/UAtJCRvom1s?si=8ucVNRkpTnHtjDtW)
+  
+  
