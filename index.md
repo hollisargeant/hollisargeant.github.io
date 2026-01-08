@@ -28,6 +28,10 @@ title: "Holli Sargeant"
 
 ## News
 
+- 📄 **December 2025 - New Article in Computer Law & Security Review**
+   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making.
+  <a href="https://doi.org/10.1016/j.clsr.2025.106247" target="_blank">[Read the article ↗︎]</a>
+
 - 🏆 **November 2025 — EMNLP Senior Area Chair Highlight Award**  
   Awarded to the top 2.5% of accepted papers for a “seminal contribution.”  
   Our paper, <em>Detecting Legal Citations in United Kingdom Court Judgments</em>, introduces a new dataset and method for recognising citation structure in UK judgments, with applications for legal search, retrieval, and AI-assisted reasoning.  
@@ -65,7 +69,7 @@ title: "Holli Sargeant"
 - 🎤 **(Upcoming) Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law - New Technology, AI & Equality Workshop**  
   *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
 
-- 🎤 **(Upcoming) AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
+- 🎤 **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
   *University of Cambridge — November 2025*  
   <a href="https://www.law.cam.ac.uk/press/events/2025/11/ai-and-future-legal-profession-why-study-law-age-ai" target="_blank">[Event page ↗︎]</a>
 
