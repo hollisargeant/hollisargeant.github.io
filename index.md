@@ -28,8 +28,8 @@ title: "Holli Sargeant"
 
 ## News
 
-- 📄 **December 2025 - New Article in Computer Law & Security Review**
-   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making.
+- 📄 **December 2025 — New Article in Computer Law & Security Review**  
+   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making.  
   <a href="https://doi.org/10.1016/j.clsr.2025.106247" target="_blank">[Read the article ↗︎]</a>
 
 - 🏆 **November 2025 — EMNLP Senior Area Chair Highlight Award**  
