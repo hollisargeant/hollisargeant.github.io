@@ -36,7 +36,7 @@ permalink: /talks/
   *University of Cambridge — October 2025* [[Event page ↗︎]](https://www.law.cam.ac.uk/press/events/2025/10/ai-and-future-legal-profession-foundations-legal-ai)
 
 - **Algorithmic Resignation — Workshop on Law-Following AI**  
-  *Institute for Law \& AI, University of Cambridge — June 2025*  
+  *Institute for Law & AI, University of Cambridge — June 2025*  
   [[Presentation ↗︎]](https://youtu.be/D5m94opZ7bI?si=wvFj0H6ro5-LW6TQ) [[Paper ↗︎]](https://doi.org/10.1109/MC.2024.3431328) 
   
 - **Cambridge Law Corpus — Legal Data Access and Open Infrastructure Roundtable**  
