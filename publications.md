@@ -22,8 +22,16 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 
 ## Articles
 
+<!-- **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti Discrimination Law**.<br> 
+*The Modern Law Review (2026).* [[DOI ↗︎]](https://doi.org/)<br> 
+<u>Holli Sargeant</u>.<br> -->
+
+**Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
+   *Proceeding of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* <br> <!-- [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> -->
+   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
+
 **Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR**.<br>
-*Computer Law & Security Review, 60, 106247 (2026)* [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> 
+*Computer Law & Security Review, 60, 106247 (2026).* [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> 
 <u>Holli Sargeant</u>. 
 
 <!-- **The Law and Ethics of Legal AI Datasets: Creating the Cambridge Law Corpus**.<br> 
