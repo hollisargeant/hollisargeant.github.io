@@ -22,7 +22,7 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 
 ## Articles
 
-<!-- **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti Discrimination Law**.<br> 
+<!-- **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law**.<br> 
 *The Modern Law Review (2026).* [[DOI ↗︎]](https://doi.org/)<br> 
 <u>Holli Sargeant</u>.<br> -->
 
