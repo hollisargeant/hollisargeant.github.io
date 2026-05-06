@@ -29,26 +29,21 @@ title: "Holli Sargeant"
 ## News
 
 - 📄 **May 2025 — Article accepted for FAccT 2026**  
-  We examine whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms.  
-  [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
+  We examine whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms. [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
 
 - 📄 **December 2025 — New Article in Computer Law & Security Review**  
-   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making.  
-  <a href="https://doi.org/10.1016/j.clsr.2025.106247" target="_blank">[Read the article ↗︎]</a>
+   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making. [[Read the article ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247) [[Read the summary blog post ↗︎]](https://blogs.law.ox.ac.uk/oblb/blog-post/2026/01/mind-gap-securing-algorithmic-explainability-credit-decisions-beyond-uk-gdpr)  
 
 - 🏆 **November 2025 — EMNLP Senior Area Chair Highlight Award**  
   Awarded to the top 2.5% of accepted papers for a “seminal contribution.”  
-  Our paper, <em>Detecting Legal Citations in United Kingdom Court Judgments</em>, introduces a new dataset and method for recognising citation structure in UK judgments, with applications for legal search, retrieval, and AI-assisted reasoning.  
-  <a href="https://bsky.app/profile/did:plc:jswx3au6vra5s2ul5mrtj4uh/post/3m5gfe2pitc2c" target="_blank">[Award announcement ↗︎]</a> <a href="https://aclanthology.org/2025.emnlp-main.1361/" target="_blank">[Read the paper ↗︎]</a>
+  Our paper, <em>Detecting Legal Citations in United Kingdom Court Judgments</em>, introduces a new dataset and method for recognising citation structure in UK judgments, with applications for legal search, retrieval, and AI-assisted reasoning. [[Award announcement ↗︎]](https://2025.emnlp.org/program/awards/) [[Read the paper ↗︎]](https://aclanthology.org/2025.emnlp-main.1361/)  
 
 - 📄 **October 2025 — OECD Policy Paper on Access to Justice for SMEs**  
   Published with Felix Steffek as principal authors.  
-  <em>Supporting Businesses Through Better Justice Systems: A Focus on SMEs and Entrepreneurship</em> sets out principles for improving SMEs’ access to justice and proposes a Code of Dispute Resolution for Businesses.  
-  <a href="https://www.oecd.org/en/publications/supporting-businesses-through-better-justice-systems_1791ca66-en.html" target="_blank">[Read the policy paper ↗︎]</a>
+  <em>Supporting Businesses Through Better Justice Systems: A Focus on SMEs and Entrepreneurship</em> sets out principles for improving SMEs’ access to justice and proposes a Code of Dispute Resolution for Businesses. [[Read the policy paper ↗︎]](https://doi.org/10.1787/1791ca66-en)  
 
 - 🎓 **October 2025 — Appointed Research Fellow in Law, St John’s College, Cambridge**  
-  St John’s College announced the election of new Research Fellows.  
-  <a href="https://www.joh.cam.ac.uk/about-us/news-and-research/academics-in-the-arts-humanities-and-sciences-join-st-johns-fellowship" target="_blank">[Read the announcement ↗︎]</a>
+  St John’s College announced the election of new Research Fellows. [[Read the announcement ↗︎]](https://www.joh.cam.ac.uk/about-us/news-and-research/academics-in-the-arts-humanities-and-sciences-join-st-johns-fellowship)  
 
 ## Recent publications
 
