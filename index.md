@@ -22,13 +22,13 @@ title: "Holli Sargeant"
 
 <p>My research focuses on the critical intersection of law and artificial intelligence. I study how algorithmic systems deployed in high-stakes decision making impact fairness, discrimination, and accountability, and how legal frameworks can adapt to ensure responsible and ethical AI governance, including how to build robust frameworks for responsible AI design and deployment. I also explore AI's role in legal research and access to justice, including projects evaluating biases in legal datasets and the use of AI-assisted legal practice, and judicial decision-making. My work is inherently interdisciplinary and integrates doctrinal and comparative legal analysis, law and economics, normative theory, and statistical and machine learning methods, to address questions of equality, transparency, and governance.</p>
 
-<p>Before my doctoral studies, I practised as a solicitor at Herbert Smith Freehills and was seconded to the Australian Human Rights Commission, where I contributed to the <a href="https://humanrights.gov.au/our-work/technology-and-human-rights/publications/final-report-human-rights-and-technology" target="_blank">Human Rights and Technology Project</a>. I hold an LLB (Hons) and BIR from Bond University, and a Graduate Diploma of Legal Practice from the College of Law Australia.</p>
+<p>Before my doctoral studies, I practised as a solicitor at Herbert Smith Freehills and was seconded to the Australian Human Rights Commission, where I contributed to the <a href="https://humanrights.gov.au/our-work/technology-and-human-rights/publications/final-report-human-rights-and-technology" target="_blank">Human Rights and Technology Project</a>. I hold an LLB (Hons) and BIR from Bond University, and a GDLP from the College of Law Australia.</p>
 
 </div>
 
 ## News
 
-- 📄 **May 2025 — Accepted paper in FAccT 2026**  
+- 📄 **May 2025 — Article accepted for FAccT 2026**  
   Joint with Anna Neumann and Jatinder Singh examines whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms.  
   [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
 
@@ -65,11 +65,11 @@ title: "Holli Sargeant"
    <u>Holli Sargeant</u>, Andreas Östling, Måns Magnusson.<br>
 
 - **[Formalising Anti-Discrimination Law in Automated Decision Systems](https://doi.org/10.1145/3715275.3732015)**.<br>
-   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 181-194 (2025)*. <br>
+   *Proceedings of the Conference on Fairness, Accountability and Transparency (FAccT), 181-194 (2025)*. <br>
    <u>Holli Sargeant</u>, Måns Magnusson.<br>
 
 - **[Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden](https://doi.org/10.1145/3715275.3732016)**.<br>
-   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 195-208 (2025)*.<br>
+   *Proceedings of the Conference on Fairness, Accountability and Transparency (FAccT), 195-208 (2025)*.<br>
    <u>Holli Sargeant</u>, Hannes Waldetoft, Måns Magnusson.<br>
   
 - **[Topic Classification of Case Law Using a Large Language Model and a New Taxonomy for UK Law](https://doi.org/10.1007/s10506-025-09434-0)**.<br>
