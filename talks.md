@@ -20,10 +20,16 @@ permalink: /talks/
 
 ## Upcoming
 
-- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — New Technology, AI & Equality Workshop**  
-  *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
+- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — AI Alignment Seminar**   
+  *University of Bergen — May 2026* [[Event page ↗︎]](https://www.uib.no/en/ai/182154/ai-alignment)  
+
+- **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
+  *ACM FAccT Montreal — June 2026 (with Anna Neumann and Jatinder Singh)*
 
 ## Selected talks & events 
+
+- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — New Technology, AI & Equality Workshop**  
+  *University of Southampton — April 2026* [[Event page ↗︎]](https://www.southampton.ac.uk/law/news/events/2025/10/new-technology-ai-and-gender-equality-problems-and-solutions.page)
 
 - **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
   *University of Cambridge — November 2025* [[Event page ↗︎]](https://www.law.cam.ac.uk/press/events/2025/11/ai-and-future-legal-profession-why-study-law-age-ai)
@@ -45,8 +51,8 @@ permalink: /talks/
 - **Legal and Ethical Issues in LawTech Applications — AI, Law & Access to Justice Festival**  
   *University of Surrey — July 2025*  
 
-- **Presented two first-author papers at FAccT 2025 (Athens)**  
-  *FAccT — June 2025*  
+- **Presented two first-author papers - ACM FAccT 2025**  
+  *ACM FAccT Athens — June 2025*  
   Presented two papers on algorithmic discrimination and legal evaluations of ML classifiers.  
   [[Presentation on Classifying Hate ↗︎]](https://youtu.be/iTlBDnqURcY?si=0RztC3HSPCRXH8G-) [[Presentation on Formalising Discrimination ↗︎]](https://youtu.be/UAtJCRvom1s?si=8ucVNRkpTnHtjDtW)
   
