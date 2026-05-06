@@ -28,6 +28,10 @@ title: "Holli Sargeant"
 
 ## News
 
+- 📄 **May 2025 — Accepted paper in FAccT 2026**  
+  Joint with Anna Neumann and Jatinder Singh examines whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms.  
+  [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
+
 - 📄 **December 2025 — New Article in Computer Law & Security Review**  
    On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making.  
   <a href="https://doi.org/10.1016/j.clsr.2025.106247" target="_blank">[Read the article ↗︎]</a>
@@ -48,13 +52,13 @@ title: "Holli Sargeant"
 
 ## Recent publications
 
+<!-- - **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br> -->
+   <!-- *Proceeding of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* <br> [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> -->
+  <!-- Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br> -->
+
 - **[Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR](https://doi.org/10.1016/j.clsr.2025.106247)**.<br>
    *Computer Law & Security Review, 60, 106247 (2026).* <br>
    <u>Holli Sargeant</u>.
-
-- **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
-   *Proceeding of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* <br> <!-- [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> -->
-   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
 
 - **[Detecting Legal Citations in United Kingdom Court Judgments](https://doi.org/10.18653/v1/2025.emnlp-main.1361)**.<br>
    *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 26798–26824 (2025)*. <br>
@@ -76,11 +80,11 @@ title: "Holli Sargeant"
 
 ## Upcoming talks & events
 
+- **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
+  *ACM FAccT Montreal — June 2026*
+
 - **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — AI Alignment Seminar**   
   *University of Bergen — May 2026* [[Event page ↗︎]](https://www.uib.no/en/ai/182154/ai-alignment)  
-
-- **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
-  *ACM FAccT Montreal — June 2026 (with Anna Neumann and Jatinder Singh)*
 
 [More talks →](/talks/)
 
