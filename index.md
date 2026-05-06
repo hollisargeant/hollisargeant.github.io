@@ -29,7 +29,7 @@ title: "Holli Sargeant"
 ## News
 
 - 📄 **May 2025 — Article accepted for FAccT 2026**  
-  Joint with Anna Neumann and Jatinder Singh examines whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms.  
+  We examine whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms.  
   [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
 
 - 📄 **December 2025 — New Article in Computer Law & Security Review**  
