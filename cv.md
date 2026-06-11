@@ -18,5 +18,5 @@ permalink: /cv/
 <hr class="rule" />
 </div>
 
-Download my [CV (March 2026)](/assets/files/Holli_Sargeant_CV.pdf).
+Download my [CV (June 2026)](/assets/files/Holli_Sargeant_CV.pdf).
 
