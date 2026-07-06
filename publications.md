@@ -8,7 +8,6 @@ permalink: /publications/
    <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
 
 <ul class="site-nav">
-  <li><a href="/research/">Research</a></li>
   <li><a href="/publications/">Publications</a></li>
   <li><a href="/talks/">Talks</a></li>
   <li><a href="/cv/">CV</a></li>
@@ -27,7 +26,7 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 <u>Holli Sargeant</u>.<br> 
 
 **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
-   *Proceeding of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* [[SSRN ↗︎]](https://ssrn.com/abstract=6802319)<br>  <!-- [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> -->
+   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
    Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
 
 **Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR**.<br>
