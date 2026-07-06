@@ -1,6 +1,14 @@
 title: "Holli Sargeant"
 name: "Holli Sargeant"
 email: hs775@cam.ac.uk
+description: "Research Fellow in Law at St John's College, University of Cambridge. Research on law and artificial intelligence: algorithmic discrimination, AI regulation and access to justice."
+
+# Default social-card image for link previews (used by jekyll-seo-tag as og:image)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/avatar.jpg
 
 url: "https://hollisargeant.github.io" #url: "https://ankitsultana.com"
 baseurl: ""   # keep empty for user sites (username.github.io) baseurl: "/researcher"
