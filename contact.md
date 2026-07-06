@@ -8,7 +8,6 @@ permalink: /contact/
    <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
 
 <ul class="site-nav">
-  <li><a href="/research/">Research</a></li>
   <li><a href="/publications/">Publications</a></li>
   <li><a href="/talks/">Talks</a></li>
   <li><a href="/cv/">CV</a></li>
