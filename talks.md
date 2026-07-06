@@ -8,7 +8,6 @@ permalink: /talks/
    <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
 
 <ul class="site-nav">
-  <li><a href="/research/">Research</a></li>
   <li><a href="/publications/">Publications</a></li>
    <li><a href="/talks/">Talks</a></li>
   <li><a href="/cv/">CV</a></li>
@@ -18,12 +17,10 @@ permalink: /talks/
 <hr class="rule" />
 </div>
 
-## Upcoming
+## Selected talks & events 
 
 - **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
   *ACM FAccT Montreal — June 2026 (with Anna Neumann and Jatinder Singh)*
-
-## Selected talks & events 
 
 - **Encoding Equality — AI Alignment Seminar**   
   *University of Bergen — May 2026* [[Recording ↗︎]](https://www.youtube.com/watch?v=vI_X9cvDIU4&t=8885s)  
