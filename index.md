@@ -7,7 +7,6 @@ title: "Holli Sargeant"
    <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
 
 <ul class="site-nav">
-  <li><a href="/research/">Research</a></li>
   <li><a href="/publications/">Publications</a></li>
   <li><a href="/talks/">Talks</a></li>
   <li><a href="/cv/">CV</a></li>
@@ -28,9 +27,9 @@ title: "Holli Sargeant"
 
 ## News
 
-- 📄 **May 2025 — Article accepted for FAccT 2026**  
-  We examine whether system prompts can reliably function as governance instruments, given misalignments between how researchers describe their effects and how policymakers treat them as control mechanisms. [[Read the article ↗︎]](https://doi.org/10.1145/3805689.3806763)  
-
+- 📄 **May 2026 — New Article in the Modern Law Review**  
+  <em>From Estimation to Discrimination</em> examines predictive uncertainty in machine learning systems under UK anti-discrimination law. It argues that deliberate modelling choices introduce epistemic uncertainty that can produce discriminatory outcomes, and that legal analysis should attach to those design choices rather than to model outputs alone. [[Read the article ↗︎]](https://doi.org/10.1111/1468-2230.70045)    
+  
 - 📄 **December 2025 — New Article in Computer Law & Security Review**  
    On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making. [[Read the article ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247) [[Read the summary blog post ↗︎]](https://blogs.law.ox.ac.uk/oblb/blog-post/2026/01/mind-gap-securing-algorithmic-explainability-credit-decisions-beyond-uk-gdpr)  
 
@@ -47,13 +46,17 @@ title: "Holli Sargeant"
 
 ## Recent publications
 
-<!-- - **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br> -->
-   <!-- *Proceeding of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* <br> [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> -->
-  <!-- Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br> -->
+- **[From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law](https://doi.org/10.1111/1468-2230.70045)**.<br>
+   *The Modern Law Review (2026).* <br>
+   <u>Holli Sargeant</u>.
 
 - **[Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR](https://doi.org/10.1016/j.clsr.2025.106247)**.<br>
    *Computer Law & Security Review, 60, 106247 (2026).* <br>
    <u>Holli Sargeant</u>.
+
+- **[Prompt Governance? On Governing Technologies Governed by Natural Language](https://doi.org/10.1145/3805689.3806763)**.<br> 
+  *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466 - 6509.* <br> 
+   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br> 
 
 - **[Detecting Legal Citations in United Kingdom Court Judgments](https://doi.org/10.18653/v1/2025.emnlp-main.1361)**.<br>
    *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 26798–26824 (2025)*. <br>
@@ -73,13 +76,13 @@ title: "Holli Sargeant"
 
 [Full list →](/publications/)
 
-## Upcoming talks & events
-
-- **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
-  *ACM FAccT Montreal — June 2026*
+## Recent talks
 
 - **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — AI Alignment Seminar**   
-  *University of Bergen — May 2026* [[Event page ↗︎]](https://www.uib.no/en/ai/182154/ai-alignment)  
+  *University of Bergen — May 2026* [[Recording ↗︎]](https://www.youtube.com/watch?v=vI_X9cvDIU4&t=8885s)
+
+- **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
+  *University of Cambridge — November 2025* [[Event page ↗︎]](https://www.law.cam.ac.uk/press/events/2025/11/ai-and-future-legal-profession-why-study-law-age-ai)
 
 [More talks →](/talks/)
 
