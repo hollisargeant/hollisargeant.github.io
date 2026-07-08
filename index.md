@@ -21,11 +21,12 @@ title: "Holli Sargeant"
 
 <p>My research focuses on the critical intersection of law and artificial intelligence. I study how algorithmic systems deployed in high-stakes decision making impact fairness, discrimination, and accountability, and how legal frameworks can adapt to ensure responsible and ethical AI governance, including how to build robust frameworks for responsible AI design and deployment. I also explore AI's role in legal research and access to justice, including projects evaluating biases in legal datasets and the use of AI-assisted legal practice, and judicial decision-making. My work is inherently interdisciplinary and integrates doctrinal and comparative legal analysis, law and economics, normative theory, and statistical and machine learning methods, to address questions of equality, transparency, and governance.</p>
 
-<p>Before my doctoral studies, I practised as a solicitor at Herbert Smith Freehills and was seconded to the Australian Human Rights Commission, where I contributed to the <a href="https://humanrights.gov.au/our-work/technology-and-human-rights/publications/final-report-human-rights-and-technology" target="_blank">Human Rights and Technology Project</a>. I hold an LLB (Hons) and BIR from Bond University, and a GDLP from the College of Law Australia.</p>
-
 </div>
 
 ## News
+
+- 🏆 **July 2026 — Yorke Prize for the PhD Thesis**  
+The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)  
 
 - 📄 **May 2026 — New Article in the Modern Law Review**  
   <em>From Estimation to Discrimination</em> examines predictive uncertainty in machine learning systems under UK anti-discrimination law. It argues that deliberate modelling choices introduce epistemic uncertainty that can produce discriminatory outcomes, and that legal analysis should attach to those design choices rather than to model outputs alone. [[Read the article ↗︎]](https://doi.org/10.1111/1468-2230.70045)    
@@ -69,10 +70,6 @@ title: "Holli Sargeant"
 - **[Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden](https://doi.org/10.1145/3715275.3732016)**.<br>
    *Proceedings of the Conference on Fairness, Accountability and Transparency (FAccT), 195-208 (2025)*.<br>
    <u>Holli Sargeant</u>, Hannes Waldetoft, Måns Magnusson.<br>
-  
-- **[Topic Classification of Case Law Using a Large Language Model and a New Taxonomy for UK Law](https://doi.org/10.1007/s10506-025-09434-0)**.<br>
-   *Artificial Intelligence and Law* (2025). <br>
-   <u>Holli Sargeant</u>, Ahmed Izzidien, Felix Steffek.<br>
 
 [Full list →](/publications/)
 
