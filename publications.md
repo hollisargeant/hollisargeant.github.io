@@ -22,7 +22,7 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 ## Articles
 
 **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law**.<br> 
-*The Modern Law Review (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
+*The Modern Law Review, 89(4), 593-627 (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
 <u>Holli Sargeant</u>.<br> 
 
 **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
