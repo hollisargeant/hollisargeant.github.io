@@ -26,7 +26,7 @@ title: "Holli Sargeant"
 ## News
 
 - 🏆 **July 2026 — Yorke Prize for the PhD Thesis**  
-The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)  
+The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Announcement ↗︎]](https://www.law.cam.ac.uk/press/news/2026/07/research-students-win-yorke-prizes-excellence) [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)  
 
 - 📄 **May 2026 — New Article in the Modern Law Review**  
   <em>From Estimation to Discrimination</em> examines predictive uncertainty in machine learning systems under UK anti-discrimination law. It argues that deliberate modelling choices introduce epistemic uncertainty that can produce discriminatory outcomes, and that legal analysis should attach to those design choices rather than to model outputs alone. [[Read the article ↗︎]](https://doi.org/10.1111/1468-2230.70045)    
