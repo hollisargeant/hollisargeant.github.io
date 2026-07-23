@@ -27,7 +27,7 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 
 **Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI**.<br> 
 *European Conference on Algorithmic Fairness, in Proceedings of Machine Learning Research, forthcoming.* [[arXiv ↗︎]](https://doi.org/10.48550/arXiv.2508.07872)<br> 
-<u>Holli Sargeant</u><sup>*</sup>, Mackenzie Jorgensen<sup>*</sup>, Arina Shah, Sam Goring, Adrian Weller, Umang Bhatt,.<br> 
+<u>Holli Sargeant</u><sup>*</sup>, Mackenzie Jorgensen<sup>*</sup>, Arina Shah, Sam Goring, Adrian Weller, Umang Bhatt.<br> 
 
 **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
    *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466--6509.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
