@@ -25,8 +25,12 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 *The Modern Law Review, 89(4), 593-627 (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
 <u>Holli Sargeant</u>.<br> 
 
+**Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI**.<br> 
+*European Conference on Algorithmic Fairness, in Proceedings of Machine Learning Research, forthcoming.* [[arXiv]](https://doi.org/10.48550/arXiv.2508.07872)<br> 
+<u>Holli Sargeant</u><sup>*</sup>, Mackenzie Jorgensen<sup>*</sup>, Arina Shah, Sam Goring, Adrian Weller, Umang Bhatt,.<br> 
+
 **Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
-   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), forthcoming.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
+   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466--6509.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
    Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
 
 **Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR**.<br>
