@@ -73,13 +73,3 @@ The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Mach
 
 [Full list →](/publications/)
 
-## Recent talks
-
-- **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — AI Alignment Seminar**   
-  *University of Bergen — May 2026* [[Recording ↗︎]](https://www.youtube.com/watch?v=vI_X9cvDIU4&t=8885s)
-
-- **AI and the Future Legal Profession: Why Study Law in the Age of AI?**  
-  *University of Cambridge — November 2025* [[Event page ↗︎]](https://www.law.cam.ac.uk/press/events/2025/11/ai-and-future-legal-profession-why-study-law-age-ai)
-
-[More talks →](/talks/)
-
