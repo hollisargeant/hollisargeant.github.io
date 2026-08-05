@@ -22,7 +22,7 @@ permalink: /talks/
 - **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
   *ACM FAccT Montreal — June 2026 (with Anna Neumann and Jatinder Singh)*
 
-- **Encoding Equality — AI Alignment Seminar**   
+- **Legal AI Alignment — AI Alignment Seminar**   
   *University of Bergen — May 2026* [[Recording ↗︎]](https://www.youtube.com/watch?v=vI_X9cvDIU4&t=8885s)  
 
 - **Encoding Equality: The Incompatibility of Algorithmic Logic and Substantive Law — New Technology, AI & Equality Workshop**  
