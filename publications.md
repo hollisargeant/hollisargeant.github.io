@@ -22,25 +22,21 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 ## Articles
 
 **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law**.<br> 
-*The Modern Law Review, 89(4), 593-627 (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
-<u>Holli Sargeant</u>.<br> 
+   *The Modern Law Review, 89(4), 593–627 (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
+   <u>Holli Sargeant</u>.<br> 
 
-**Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI**.<br> 
-*European Conference on Algorithmic Fairness, in Proceedings of Machine Learning Research, forthcoming.* [[arXiv ↗︎]](https://doi.org/10.48550/arXiv.2508.07872)<br> 
-<u>Holli Sargeant</u><sup>*</sup>, Mackenzie Jorgensen<sup>*</sup>, Arina Shah, Sam Goring, Adrian Weller, Umang Bhatt.<br> 
-
-**Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
-   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466--6509.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
-   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
 
 **Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR**.<br>
-*Computer Law & Security Review, 60, 106247 (2026).* [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> 
-<u>Holli Sargeant</u>. 
+   *Computer Law & Security Review, 60, 106247 (2026).* [[DOI ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247)<br> 
+   <u>Holli Sargeant</u>. 
 
-<!-- **The Law and Ethics of Legal AI Datasets: Creating the Cambridge Law Corpus**.<br> 
-*Cambridge Law Journal (2025).*<br> 
-<u>Holli Sargeant</u>, Felix Steffek.<br> 
-[[DOI ↗︎]](https://doi.org/)<br> -->
+**Unequal Uncertainty: Rethinking Algorithmic Interventions for Mitigating Discrimination from AI**.<br> 
+   *European Conference on Algorithmic Fairness, in Proceedings of Machine Learning Research, forthcoming.* [[arXiv ↗︎]](https://doi.org/10.48550/arXiv.2508.07872)<br> 
+   <u>Holli Sargeant</u><sup>*</sup>, Mackenzie Jorgensen<sup>*</sup>, Arina Shah, Sam Goring, Adrian Weller, Umang Bhatt.<br> 
+
+**Prompt Governance? On Governing Technologies Governed by Natural Language**.<br>
+   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466–6509.* [[DOI ↗︎]](https://doi.org/10.1145/3805689.3806763)<br> 
+   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br>
 
 **Detecting Legal Citations in United Kingdom Court Judgments**.<br>
    *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), <br>
@@ -50,11 +46,11 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 
 **Formalising Anti-Discrimination Law in Automated Decision Systems**.<br>
    *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), <br>
-   181-194 (2025)*. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732015)<br>
+   181–194 (2025)*. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732015)<br>
    <u>Holli Sargeant</u>, Måns Magnusson.<br>
 
 **Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden**.<br>
-   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 195-208 (2025)*. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732016)<br>
+   *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 195–208 (2025)*. [[DOI ↗︎]](https://doi.org/10.1145/3715275.3732016)<br>
    <u>Holli Sargeant</u>, Hannes Waldetoft, Måns Magnusson.<br>
 
 **Researching Legal AI: The Cambridge Law Corpus and Predicting Decisions of the UK Employment Tribunal**.<br>
@@ -66,45 +62,59 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
    <u>Holli Sargeant</u>, Ahmed Izzidien, Felix Steffek.<br>
 
 **Context-Specific Certification of AI Systems: A Pilot in the Financial Industry**.<br>
-  *AI and Ethics, 5, 4223-4240 (2025)*. [[DOI ↗︎]](https://doi.org/10.1007/s43681-025-00720-w)<br>
+  *AI and Ethics, 5, 4223–4240 (2025)*. [[DOI ↗︎]](https://doi.org/10.1007/s43681-025-00720-w)<br>
   Kendall Brogle<sup>*</sup>, Emma Kallina<sup>*</sup>, <u>Holli Sargeant</u><sup>*</sup>, Var Shankar, Adrian Weller, Ashley Casovan, Umang Bhatt.<br> 
 
-**Explainable Fairness in Regulatory Algorithmic Auditing**.<br>
-   *West Virginia Law Review, 127(1), 79-133 (2024)*. [[PDF ↗︎]](https://researchrepository.wvu.edu/wvlr/vol127/iss1/6/)<br>
-   Cathy O'Neil, <u>Holli Sargeant</u>, Jacob Appel.<br>
-
 **Green Infrastructure in Developing Economies: A Unique Target for Risk Reduction and Financial Investment**.<br>
-   *Climate Policy, 25(5), 792-805 (2024)*. [[DOI ↗︎]](https://doi.org/10.1080/14693062.2024.2409805)<br>
+   *Climate Policy, 25(5), 792–805 (2025)*. [[DOI ↗︎]](https://doi.org/10.1080/14693062.2024.2409805)<br>
    Tate Lavitt<sup>*</sup>, <u>Holli Sargeant</u><sup>*</sup>.<br>
 
+**Explainable Fairness in Regulatory Algorithmic Auditing**.<br>
+   *West Virginia Law Review, 127(1), 79–133 (2024)*. [[PDF ↗︎]](https://researchrepository.wvu.edu/wvlr/vol127/iss1/6/)<br>
+   Cathy O'Neil, <u>Holli Sargeant</u>, Jacob Appel.<br>
+
 **When Should Algorithms Resign? A Proposal for AI Governance**.<br>
-  *Computer, 57(10), 99-103 (2024)*. [[DOI ↗︎]](https://doi.org/10.1109/MC.2024.3431328)<br>
+  *Computer, 57(10), 99–103 (2024)*. [[DOI ↗︎]](https://doi.org/10.1109/MC.2024.3431328)<br>
   Umang Bhatt<sup>*</sup>, <u>Holli Sargeant</u><sup>*</sup>.<br>
 
 **The Cambridge Law Corpus: A Dataset for Legal AI Research**.<br>
-  *Advances in Neural Information Processing Systems, 36, 41355-41385 (2023)*. [[DOI ↗︎]](https://dl.acm.org/doi/10.5555/3666122.3667915) [[Data ↗︎]](https://www.cst.cam.ac.uk/research/srg/projects/law)<br>
+  *Advances in Neural Information Processing Systems, 36, 41355–41385 (2023)*. [[DOI ↗︎]](https://dl.acm.org/doi/10.5555/3666122.3667915) [[Data ↗︎]](https://www.cst.cam.ac.uk/research/srg/projects/law)<br>
   Andreas Östling, <u>Holli Sargeant</u>, Helena Xie, Ludwig Bull, Alex Terenin, Leif Jonsson, Måns Magnusson, Felix Steffek.<br>
 
 **Unleashing the Power of Algorithms in Antitrust Enforcement: Navigating the Boundaries of Bias and Opportunity**.<br>
-  *CPI Antitrust Chronicle, 1, 3-8 (2023)*. [[DOI ↗︎]](https://doi.org/10.17863/CAM.99555)<br>
+  *CPI Antitrust Chronicle, 1, 3–8 (2023)*. [[DOI ↗︎]](https://doi.org/10.17863/CAM.99555)<br>
   <u>Holli Sargeant</u>, Teodora Groza.<br>
 
 **Algorithmic Decision-Making in Financial Services: Economic and Normative Outcomes in Consumer Credit**.<br>
-  *AI and Ethics, 3(4), 1295-1311 (2023)*. [[DOI ↗︎]](https://doi.org/10.1007/s43681-022-00236-7)<br>
+  *AI and Ethics, 3(4), 1295–1311 (2023)*. [[DOI ↗︎]](https://doi.org/10.1007/s43681-022-00236-7)<br>
   <u>Holli Sargeant</u>.<br> 
   🏆 Awarded Best Doctoral Paper, Society of Legal Scholars Conference.<br> 
 
 **Transparency, Governance and Regulation of Algorithmic Tools Deployed in the Criminal Justice System: a UK Case Study**.<br> 
-  *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 880-889 (2022)*. [[DOI ↗︎]](https://doi.org/10.1145/3514094.3534200)<br>
+  *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES), 880–889 (2022)*. [[DOI ↗︎]](https://doi.org/10.1145/3514094.3534200)<br>
   Miri Zilka<sup>*</sup>, <u>Holli Sargeant</u><sup>*</sup>, Adrian Weller.<br>
 
 ## Book Chapters
 
+**Rights-Based Governance for AI and Access to Justice**.<br> 
+  *In: Teodora Groza, Dina Waked &amp; Megan Ma (eds), Governing AI Firms, Cambridge University Press, forthcoming.* [[SSRN ↗︎]](https://dx.doi.org/10.2139/ssrn.6942960)<br> 
+  <u>Holli Sargeant</u>.<br> 
+
 **Algorithms in the Justice System: Current Practices, Legal and Ethical Challenges**.<br>
-   *In: The Law of Artificial Intelligence, Sweet & Maxwell Ltd* (2024). [[ISBN ↗︎]](https://uk.westlaw.com/Browse/Home/Books/ArtificialIntelligence?navId=BA933A3608DA17D08F518B664983D633) [[PDF ↗︎]](/assets/files/chapter19)<br>
+   *In: Matt Hervey &amp; Matthew Lavy (eds), The Law of Artificial Intelligence, Sweet &amp; Maxwell Ltd* (2024). [[ISBN ↗︎]](https://uk.westlaw.com/Browse/Home/Books/ArtificialIntelligence?navId=BA933A3608DA17D08F518B664983D633) [[PDF ↗︎]](/assets/files/chapter19)<br>
    Sophia Adams-Bhatti, <u>Holli Sargeant</u>.<br>
 
+## Book Reviews
+
+**The Cambridge Handbook of Generative AI and the Law, edited by Mimi Zou, Cristina Poncibò, Martin Ebers and Ryan Calo**.<br> 
+   *The Cambridge Law Journal, 85(2) (2026), forthcoming.*<br> 
+   <u>Holli Sargeant</u>.<br> 
+
 ## Policy Reports
+
+**Artificial Intelligence &amp; Justice**.<br> 
+   *Nuffield Foundation, Public Right to Justice* (2026). [[DOI ↗︎]](https://doi.org/10.17863/CAM.132259) [[Press release ↗︎]](https://www.nuffieldfoundation.org/news/ai-rollout-justice-system-outpacing-scrutiny-new-report) [[Policy brief ↗︎]](https://www.nuffieldfoundation.org/publications/artificial-intelligence-justice)<br> 
+   <u>Holli Sargeant</u>.<br> 
 
 **Supporting Businesses Through Better Justice Systems: A Focus on SMEs and Entrepreneurship**.<br>
    *OECD Public Governance Policy Papers, No. 79* (2025). [[DOI ↗︎]](https://doi.org/10.1787/1791ca66-en)<br>
@@ -137,20 +147,20 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
 ## Conference Workshop Papers
 
 **Bias in Legal Data for Generative AI**.<br>
-  *GenLaw Workshop at the International Conference on Machine Learning (ICML) (2024)*. [[PDF ↗︎]](https://blog.genlaw.org/pdfs/genlaw_icml2024/9.pdf)<br>
+  *GenLaw Workshop at the International Conference on Machine Learning (ICML)* (2024). [[PDF ↗︎]](https://blog.genlaw.org/pdfs/genlaw_icml2024/9.pdf)<br>
   <u>Holli Sargeant</u> and Måns Magnusson.<br>
 
 **Modulating Language Model Experiences through Frictions**.<br>
-  *Behavioral Machine Learning Workshop at NeurIPS (2024)*. [[DOI ↗︎]](https://doi.org/10.48550/arXiv.2407.12804)<br>
+  *Behavioral Machine Learning Workshop at NeurIPS* (2024). [[DOI ↗︎]](https://doi.org/10.48550/arXiv.2407.12804)<br>
   Katherine M. Collins, Valerie Chen, Ilia Sucholutsky, Hannah Rose Kirk, Malak Sadek, <u>Holli Sargeant</u>, Ameet Talwalkar, Adrian Weller, Umang Bhatt.<br>
 
 **A Rights-Based Approach to Online Economic Exploitation of Children**.<br>
-  *Technologies of Deception Conference, Yale Law School (2022)*. [[SSRN ↗︎]](https://ssrn.com/abstract=4106649)<br>
+  *Technologies of Deception Conference, Yale Law School* (2022). [[SSRN ↗︎]](https://ssrn.com/abstract=4106649)<br>
   <u>Holli Sargeant</u>.<br>
 
-**What Goes on in Court? Identifying Contract-Related Topics Decided by UK Courts (1709–2021) Using ML**.<br>
-  *Cambridge Language Sciences Symposium (2022)*. [[DOI ↗︎]](https://doi.org/10.33774/coe-2022-p7rjg-v2)<br>
-  Ahmed Izzidien, <u>Holli Sargeant</u>, and Felix Steffek.<br>
+**What Goes on in Court? Identifying Contract-Related Topics Decided by United Kingdom Courts from 1709 to 2021 using ML**.<br> 
+  *Cambridge Language Sciences Symposium* (2022). [[DOI ↗︎]](https://doi.org/10.33774/coe-2022-p7rjg-v2)<br> 
+  Ahmed Izzidien, <u>Holli Sargeant</u>, and Felix Steffek.<br> 
 
 <hr class="rule">
 
