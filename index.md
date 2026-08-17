@@ -26,7 +26,10 @@ title: "Holli Sargeant"
 ## News
 
 - 🏆 **July 2026 — Yorke Prize for the PhD Thesis**  
-The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Announcement ↗︎]](https://www.law.cam.ac.uk/press/news/2026/07/research-students-win-yorke-prizes-excellence) [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)  
+The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Announcement ↗︎]](https://www.law.cam.ac.uk/press/news/2026/07/research-students-win-yorke-prizes-excellence) [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)
+
+- ⚖️ **July 2026 — Nuffield Foundation Report: Artificial Intelligence & Justice**  
+*Artificial Intelligence & Justice*, commissioned for Nuffield's Public Right to Justice programme, finds that AI is being deployed across civil and family justice and advice services faster than its effects on users can be independently evaluated: of 45 tools identified, only seven have any public evaluation. It calls for greater transparency, stronger oversight and evaluation research focused on the outcomes that matter most to the people the justice system serves. [[Read the report ↗︎]](https://doi.org/10.17863/CAM.132259) [[Press release ↗︎]](https://www.nuffieldfoundation.org/news/ai-rollout-justice-system-outpacing-scrutiny-new-report) [[Policy brief ↗︎]](https://www.nuffieldfoundation.org/publications/artificial-intelligence-justice)
 
 - 📄 **May 2026 — New Article in the Modern Law Review**  
   <em>From Estimation to Discrimination</em> examines predictive uncertainty in machine learning systems under UK anti-discrimination law. It argues that deliberate modelling choices introduce epistemic uncertainty that can produce discriminatory outcomes, and that legal analysis should attach to those design choices rather than to model outputs alone. [[Read the article ↗︎]](https://doi.org/10.1111/1468-2230.70045)    
