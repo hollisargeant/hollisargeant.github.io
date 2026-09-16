@@ -101,7 +101,7 @@ Find all my publications on <a href="https://scholar.google.com/citations?user=e
   <u>Holli Sargeant</u>.<br> 
 
 **Algorithms in the Justice System: Current Practices, Legal and Ethical Challenges**.<br>
-   *In: Matt Hervey &amp; Matthew Lavy (eds), The Law of Artificial Intelligence, Sweet &amp; Maxwell Ltd* (2024). [[ISBN ↗︎]](https://uk.westlaw.com/Browse/Home/Books/ArtificialIntelligence?navId=BA933A3608DA17D08F518B664983D633) [[PDF ↗︎]](/assets/files/chapter19)<br>
+   *In: Matt Hervey &amp; Matthew Lavy (eds), The Law of Artificial Intelligence, Sweet &amp; Maxwell Ltd* (2024). [[ISBN ↗︎]](https://uk.westlaw.com/Browse/Home/Books/ArtificialIntelligence?navId=BA933A3608DA17D08F518B664983D633) [[PDF ↗︎]](/assets/files/Adams_Bhatti_Sargeant_2024)<br>
    Sophia Adams-Bhatti, <u>Holli Sargeant</u>.<br>
 
 ## Book Reviews
