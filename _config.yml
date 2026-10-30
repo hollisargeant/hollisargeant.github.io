@@ -34,17 +34,21 @@ sass:
     sass_dir: _sass
 
 nav:
-  - name: "Contact"
-    link: "/contact/"
-  - name: "CV"
-    link: "/cv/"
+  - name: "About"
+    link: "/"
+  - name: "Research"
+    link: "/research/"
   - name: "Publications"
     link: "/publications/"
-  - name: "Resources"
-    link: "/resources/"
-  - name: "Code"
-    link: "https://github.com/hollisargeant"
-  - name: "Blog"
-    link: "/blog/"
+  - name: "Talks"
+    link: "/talks/"
+  - name: "Contact"
+    link: "/contact/"
 
-
+# Kept in the repository but not published
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - researcher.gemspec
+  - LICENSE

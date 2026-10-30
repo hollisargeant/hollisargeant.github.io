@@ -3,37 +3,37 @@ layout: default
 title: Research
 permalink: /research/
 ---
-<div class="header-section">
 
-   <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
+## Research
 
-<ul class="site-nav">
-  <li><a href="/research/">Research</a></li>
-  <li><a href="/publications/">Publications</a></li>
-   <li><a href="/talks/">Talks</a></li>
-   <li><a href="/cv/">CV</a></li>
-  <li><a href="/contact/">Contact</a></li>
-</ul>
+My research asks how law can hold algorithmic decision systems to account, in consumer markets and in the justice system, and how computational evidence about the law can support that work. It is interdisciplinary: I combine doctrinal and comparative legal analysis with law and economics, normative theory, and statistical and machine learning methods. The work has three connected strands.
 
-<hr class="rule" />
-</div>
+### 1. Rights in algorithmic decisions
 
-I am a <a href="https://www.joh.cam.ac.uk/research/academics/fellows/dr-holli-sargeant" target="_blank">Research Fellow in Law at St John’s College, University of Cambridge</a>. My work occupies the intersection of law and artificial intelligence. I study how algorithmic systems shape fairness, discrimination, and accountability, and how legal frameworks must evolve to ensure responsible and ethical AI deployment.
+Existing legal frameworks, in particular anti-discrimination and data protection law, have to adapt to high-stakes algorithmic decisions such as credit scoring. I study where those frameworks fail when applied to machine learning systems, and I develop legal and technical approaches that prevent unlawful discrimination, support transparency and make decision systems accountable.
 
-My research is inherently interdisciplinary, integrating methods from law, statistics, and machine learning with normative and economic theory. I focus on three connected areas:
+- [From Estimation to Discrimination](https://doi.org/10.1111/1468-2230.70045) (*Modern Law Review*, 2026) argues that modelling choices about predictive uncertainty can themselves produce discrimination, so legal analysis should attach to those design choices and not to model outputs alone.
+- [Mind the Gap](https://doi.org/10.1016/j.clsr.2025.106247) (*Computer Law &amp; Security Review*, 2026) examines how the Data (Use and Access) Act 2025 weakens safeguards for automated credit decisions.
+- [Formalising Anti-Discrimination Law in Automated Decision Systems](https://doi.org/10.1145/3715275.3732015) (ACM FAccT, 2025) and [Unequal Uncertainty](https://doi.org/10.48550/arXiv.2508.07872) (forthcoming) translate legal tests of discrimination into terms that system designers can apply.
 
-1. **Responsible Regulation**
-    
-    My research investigates the necessity for existing legal frameworks, specifically anti-discrimination and data protection laws, to adapt to high-stakes algorithmic decisions. I work to develop robust legal and technical frameworks that mitigate unlawful discrimination, support transparency and ensure accountability for high-stakes algorithmic decision systems.
+### 2. AI in the justice system
 
-2. **Access to Justice**
+I study how AI tools are changing courts, advice services and the legal profession. This work examines the tension between rights-based approaches to justice and the practical effects of deploying AI in legal settings, and asks how professional ethics and rule of law principles should guide the digitalisation of justice so that it serves the people who use it.
 
-    Beyond regulation, I study how AI tools are reshaping the justice system itself. This work highlights the tensions between rights-based approaches to justice and the pragmatic effects of deploying AI in legal contexts. I focus on how professional ethics and rule of law principles must guide the digitalisation of the justice system to ensure it remains centered on the interests of the people it serves, balancing efficiency with fairness and due process.
-   
-   <!-- > Evidence Review Project with Nuffield Foundation [[Page ↗︎]]() -->
+- [Artificial Intelligence &amp; Justice](https://doi.org/10.17863/CAM.132259) (Nuffield Foundation, 2026) reviews the evidence on AI tools in civil and family justice and advice services. Of 45 tools identified, only seven have any public evaluation.
+- [Supporting Businesses Through Better Justice Systems](https://doi.org/10.1787/1791ca66-en) (OECD, 2025, with Felix Steffek) sets out principles for small businesses' access to justice.
+- [Rights-Based Governance for AI and Access to Justice](https://dx.doi.org/10.2139/ssrn.6942960) (Cambridge University Press, forthcoming).
 
-3. **Computational Legal Infrastructure**
+### 3. Law as data
 
-    To understand the law through computational and empirical methods, we need better datasets, tools, and legally-informed methods. I co-led the creation of the Cambridge Law Corpus, a large-scale, machine-readable dataset of UK case law [[Published at NeurIPS'23 ↗︎]](https://doi.org/10.5555/3666122.3667915). We continue to enrich this corpus with structured information to improve its utitlity for computational legal research.
+To study the law with computational and empirical methods, we need better datasets, tools and legally informed methods. I co-led the creation of the Cambridge Law Corpus, a large machine-readable dataset of UK case law, and we continue to add structured information to it.
 
-   > **Details of the Cambridge Law Corpus:** [[Project Page ↗︎]](https://www.cst.cam.ac.uk/research/srg/projects/law)
+- [The Cambridge Law Corpus: A Dataset for Legal AI Research](https://dl.acm.org/doi/10.5555/3666122.3667915) (NeurIPS, 2023). [[Project page]](https://www.cst.cam.ac.uk/research/srg/projects/law)
+- [Detecting Legal Citations in United Kingdom Court Judgments](https://doi.org/10.18653/v1/2025.emnlp-main.1361) (EMNLP, 2025), which received a Senior Area Chair Highlight award.
+- [Topic Classification of Case Law Using a Large Language Model and a New Taxonomy for UK Law](https://doi.org/10.1007/s10506-025-09434-0) (*Artificial Intelligence and Law*, 2026).
+
+## Funded projects
+
+- **Predicting Decisions of the UK Employment Tribunal** (2025). Accelerate Programme for Scientific Discovery, University of Cambridge. Research Associate; PI Felix Steffek.
+- **Access to Justice through AI** (2023–2025). Nuffield Foundation. Research Assistant; PI Felix Steffek.
+- **Legal Systems &amp; AI** (2020–2023). UK Research and Innovation. Research Assistant; PI Simon Deakin.
