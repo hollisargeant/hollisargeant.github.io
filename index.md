@@ -29,11 +29,13 @@ My research focuses on the intersection of **law and artificial intelligence**. 
 The Modern Law Review (2026)<br>
 </div>
 
+
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1016/j.clsr.2025.106247">Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR</a><br>
 <b>Holli Sargeant</b><br>
 Computer Law &amp; Security Review (2026)<br>
 </div>
+
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3805689.3806763">Prompt Governance? On Governing Technologies Governed by Natural Language</a><br>
@@ -41,11 +43,13 @@ Anna Neumann, <b>Holli Sargeant</b>, Jatinder Singh<br>
 FAccT (2026)<br>
 </div>
 
+
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.18653/v1/2025.emnlp-main.1361">Detecting Legal Citations in United Kingdom Court Judgments</a><br>
 <b>Holli Sargeant</b>, Andreas Östling, Måns Magnusson<br>
 EMNLP (2025) · Senior Area Chair Highlight<br>
 </div>
+
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3715275.3732015">Formalising Anti-Discrimination Law in Automated Decision Systems</a><br>
@@ -53,10 +57,12 @@ EMNLP (2025) · Senior Area Chair Highlight<br>
 FAccT (2025)<br>
 </div>
 
+
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3715275.3732016">Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden</a><br>
 <b>Holli Sargeant</b>, Hannes Waldetoft, Måns Magnusson<br>
 FAccT (2025)<br>
 </div>
+
 
 [Full list of publications](/publications/)
