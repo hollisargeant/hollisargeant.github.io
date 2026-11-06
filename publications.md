@@ -3,23 +3,18 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-<div class="header-section">
-
-   <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
-
-<ul class="site-nav">
-  <li><a href="/publications/">Publications</a></li>
-  <li><a href="/talks/">Talks</a></li>
-  <li><a href="/cv/">CV</a></li>
-  <li><a href="/contact/">Contact</a></li>
-</ul>
-
-<hr class="rule" />
-</div>
-
 Find all my publications on <a href="https://scholar.google.com/citations?user=eKUDjkwAAAAJ">Google Scholar</a>.
 
+<sup>*</sup> indicates equal contribution.
+
 ## Articles
+
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1111/1468-2230.70045">From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law</a><br>
+<b>Holli Sargeant</b><br>
+The Modern Law Review, 89(4), 593–627 (2026)<br>
+<a class="badge" href="https://doi.org/10.1111/1468-2230.70045">DOI</a>
+</div>
 
 **From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law**.<br> 
    *The Modern Law Review, 89(4), 593–627 (2026).* [[DOI ↗︎]](https://doi.org/10.1111/1468-2230.70045)<br> 
