@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>{{ page.title }} — {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
+
   <meta name="google-site-verification" content="Wp5QHoAVFAbR4ccbb3UO2pOXfwiTKWP6S6QWG0hFpEw" />
   {% seo %}
 
@@ -14,12 +13,19 @@
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
 <body>
+  <header class="site-header">
+    <h1 class="site-name"><a href="{{ '/' | relative_url }}">{{ site.name }}</a></h1>
+    <nav>
+      <ul class="site-nav">
+        {% for item in site.nav %}
+        <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
   <main class="container">
     {{ content }}
   </main>
-
-  <footer>
-    <hr class="rule" />
-  </footer>
 </body>
 </html>
