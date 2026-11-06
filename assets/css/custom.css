@@ -3,10 +3,19 @@
    ========================= */
 :root{
   --text:#111;
+  --muted:#666;
   --link:#2899e2;       /* lighter sky blue */
   --rule:#e6e6e6;
   --colw:700px;         /* content width */
   --padx:1.5rem;        /* side padding */
+
+  /* Announcement box colours */
+  --box:#e3f1fb;                  /* default box: pale blue */
+  --announcement-blue:#e3f1fb;
+  --announcement-green:#dcefe3;
+  --announcement-yellow:#fbf1d8;
+  --announcement-pink:#f9e3ea;
+  --announcement-grey:#eef0f2;
 }
 
 html{ font-size:17px; }
@@ -37,20 +46,15 @@ h1,h2,h3,h4{
 h1{ font-size:2.1rem; letter-spacing:-0.02em; }
 
 /* Section headings */
-h2 {
-  font-size: 1.4rem;
-  letter-spacing: -0.01em;
-  margin: 2.5rem 0 0.75rem;
+h2{
+  font-size:1.4rem;
+  letter-spacing:-0.01em;
+  margin:2.5rem 0 .75rem;
 }
 
-h3 {
-  font-size: 1.2rem;
-  margin: 1.8rem 0 0.5rem;
-}
-
-/* Slightly more breathing room after header section */
-.header-section {
-  margin-bottom: 3rem;
+h3{
+  font-size:1.2rem;
+  margin:1.8rem 0 .5rem;
 }
 
 /* Body text */
@@ -74,46 +78,37 @@ a:focus{
   outline-offset:2px;
 }
 
-/* Minimal inline nav */
-.site-nav{ margin:0 0 .75rem; padding:0; list-style:none; font-size:.95rem; }
-.site-nav li{ display:inline; }
-.site-nav li+li::before{ content:" / "; color:var(--muted); margin:0 .25rem; }
-
-/* --- Centered top navigation under name --- */
-.site-nav {
-  list-style: none;
-  padding: 0;
-  margin: 0.5rem 0 1rem;
-  text-align: center;
+/* ---- Header: centred name, nav underneath ---- */
+.site-header{
+  text-align:center;
+  padding:40px 16px 28px;
 }
-
-.site-nav li {
-  display: inline-block;
-  margin: 0 0.4rem;
+.site-name{
+  font-size:1.75rem;
+  font-weight:600;
+  margin:0 0 .4rem;
+  letter-spacing:.01em;
 }
+.site-name a{ color:var(--text); text-decoration:none; }
 
-.site-nav a {
-  text-decoration: none;
-  color: var(--muted);
-  font-family: "Lora", Georgia, serif;
-  font-size: 1.05rem;
-  transition: color 0.2s ease;
+/* ---- Nav: one row of underlined links, centred ---- */
+.site-nav{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:.2rem 1.1rem;
 }
-
-.site-nav a:hover {
-  color: var(--link);
-  text-decoration: underline;
+.site-nav li{ margin:0; }
+.site-nav a{
+  color:var(--link);
+  font-family:"Lora", Georgia, serif;
+  font-size:.95rem;
+  text-decoration:underline;
 }
-
-/* Divider */
-.header-section .rule {
-  width: 80%;
-  max-width: 420px;
-  margin: 1.25rem auto 2rem;
-  background: var(--rule);
-  border: 0;
-  height: 1px;
-}
+.site-nav a:hover{ text-decoration-thickness:2px; }
 
 /* Images */
 img{ max-width:100%; height:auto; }
@@ -128,30 +123,7 @@ img{ max-width:100%; height:auto; }
   margin:0 auto 2rem;
 }
 
-/* ---- Header: centred name, nav underneath ---- */
-.site-header{
-  text-align:center;
-  padding:40px 16px 28px;
-}
-.site-name{
-  font-size:1.75rem;
-  font-weight:600;
-  margin:0 0 .4rem;
-  letter-spacing:.01em;
-}
-.site-name a{ color:var(--text); text-decoration:none; }
-.site-nav{
-  list-style:none;
-  margin:0;
-  padding:0;
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:.2rem 1.1rem;
-  font-size:.92rem;
-}
-
-/* Body: left-aligned text inside centered column */
+/* Body: left-aligned text inside centred column */
 main p,
 main ul,
 main ol,
@@ -168,22 +140,22 @@ main h4{
 .section li{ margin:.2rem 0; }
 
 /* Footer */
-footer {
-  text-align: center;
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
+footer{
+  text-align:center;
+  margin-top:3rem;
+  margin-bottom:1.5rem;
 }
 
-footer .rule {
-  width: 80%;
-  max-width: 420px;
-  margin: 0 auto;
-  background: var(--rule);
-  border: 0;
-  height: 1px;
+footer .rule{
+  width:80%;
+  max-width:420px;
+  margin:0 auto;
+  background:var(--rule);
+  border:0;
+  height:1px;
 }
 
-/* Tables & code */
+/* Tables */
 table{
   width:100%;
   border-collapse:collapse;
@@ -196,10 +168,10 @@ td,th{
 }
 
 /* =========================
-   Publication badges
+   Publication entries
    ========================= */
 
-/* ---- Publication entries ----
+/*
    <div class="pub">
      <a class="pub-title" href="...">Title</a><br>
      Authors, with <b>Holli Sargeant</b><br>
@@ -223,15 +195,16 @@ td,th{
 /* ---- Dated lines (talks, teaching) ---- */
 .lines p{ margin:0 0 .35rem; }
 
-
-/* ---- Announcement box ---- */
+/* =========================
+   Announcement box
+   Use: <div class="announcement announcement--green">...</div>
+   ========================= */
 .announcement{
   background:var(--box);
+  border-left:4px solid transparent;
   padding:.6rem .75rem;
   margin:0 0 1rem;
 }
-
-/* Colour options */
 
 .announcement--blue{
   background:var(--announcement-blue);
