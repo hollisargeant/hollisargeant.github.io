@@ -2,77 +2,67 @@
 layout: default
 title: "Holli Sargeant"
 ---
-<div class="header-section">
 
-   <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
+<img class="profile-picture" src="/assets/img/avatar-web.jpg" alt="Holli Sargeant">
 
-<ul class="site-nav">
-  <li><a href="/publications/">Publications</a></li>
-  <li><a href="/talks/">Talks</a></li>
-  <li><a href="/cv/">CV</a></li>
-  <li><a href="/contact/">Contact</a></li>
-</ul>
+## About Me
 
-<hr class="rule" />
+I am a <a href="https://www.joh.cam.ac.uk/research/academics/fellows/dr-holli-sargeant">Research Fellow in Law at St John’s College, University of Cambridge</a>. I completed my PhD in the <a href="https://www.law.cam.ac.uk/">Faculty of Law, University of Cambridge</a>, supervised by <a href="https://www.law.cam.ac.uk/people/academic/f-steffek/6136">Felix Steffek</a> and <a href="https://www.law.cam.ac.uk/people/academic/l-vinx/78311">Lars Vinx</a>, and advised by <a href="https://mansmeg.github.io/">Måns Magnusson</a> and <a href="https://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a>. My thesis, <a href="https://doi.org/10.17863/CAM.115485"><em>Machine Learning in Consumer Credit: Legal, Economic, Ethical &amp; Policy Implications</em></a>, examined the interaction between AI systems and consumer finance. I completed part of my research as a <a href="https://www.law.cam.ac.uk/faculty-international-academic-links">doctoral exchange student</a> at Harvard Law School and an <a href="https://cyber.harvard.edu/people/holli-sargeant">affiliate</a> at Harvard University’s Berkman Klein Center for Internet &amp; Society. My doctoral research was funded by a <a href="https://www.johnmonash.com/scholar/holli-sargeant/">General Sir John Monash Scholarship</a>.
 
-<img class="profile-picture" src="/assets/img/avatar.jpg" alt="Holli Sargeant headshot">
+## Research Interests
 
-<p>I am a <a href="https://www.joh.cam.ac.uk/research/academics/fellows/dr-holli-sargeant" target="_blank">Research Fellow in Law at St John’s College, University of Cambridge</a>. I completed my PhD in the <a href="https://www.law.cam.ac.uk/" target="_blank">Faculty of Law, University of Cambridge</a>, supervised by <a href="https://www.law.cam.ac.uk/people/academic/f-steffek/6136" target="_blank">Felix Steffek</a> and <a href="https://www.law.cam.ac.uk/people/academic/l-vinx/78311" target="_blank">Lars Vinx</a>, and advised by <a href="https://mansmeg.github.io/" target="_blank">Måns Magnusson</a> and <a href="https://mlg.eng.cam.ac.uk/adrian/" target="_blank">Adrian Weller</a>. My thesis, <a href="https://doi.org/10.17863/CAM.115485" target="_blank"><em>Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications</em></a>, examined the interaction between AI systems and consumer finance. It offered recommendations for regulation by analysing the economic incentives for using new technology alongside the normative and legal implications for consumers and other stakeholders. I completed part of my research as a <a href="https://www.law.cam.ac.uk/faculty-international-academic-links" target="_blank">doctoral exchange student</a> at Harvard Law School and an <a href="https://cyber.harvard.edu/people/holli-sargeant" target="_blank">affiliate</a> at Harvard University’s Berkman Klein Center for Internet & Society. My doctoral research was funded by a <a href="https://www.johnmonash.com/scholar/holli-sargeant/" target="_blank">General Sir John Monash Scholarship</a>.</p>
-
-<p>My research focuses on the critical intersection of law and artificial intelligence. I study how algorithmic systems deployed in high-stakes decision making impact fairness, discrimination, and accountability, and how legal frameworks can adapt to ensure responsible and ethical AI governance, including how to build robust frameworks for responsible AI design and deployment. I also explore AI's role in legal research and access to justice, including projects evaluating biases in legal datasets and the use of AI-assisted legal practice, and judicial decision-making. My work is inherently interdisciplinary and integrates doctrinal and comparative legal analysis, law and economics, normative theory, and statistical and machine learning methods, to address questions of equality, transparency, and governance.</p>
-
-</div>
+My research focuses on the intersection of **law and artificial intelligence**. I study how **algorithmic systems deployed in high-stakes decision making** impact fairness, discrimination, and accountability, and how legal frameworks can adapt to ensure responsible and ethical AI governance. I also explore **AI's role in legal research and access to justice**, including projects evaluating biases in legal datasets, AI-assisted legal practice, and judicial decision-making. My work is interdisciplinary and integrates doctrinal and comparative legal analysis, law and economics, normative theory, and statistical and machine learning methods. More on my [research](/research/).
 
 ## News
 
-- 🏆 **July 2026 — Yorke Prize for the PhD Thesis**  
-The Cambridge Faculty of Law has awarded the Yorke Prize to my PhD thesis, *Machine Learning in Consumer Credit: Legal, Economic, Ethical & Policy Implications*. The prize recognises doctoral theses of exceptional quality that make a substantial contribution to a field of legal knowledge. [[Announcement ↗︎]](https://www.law.cam.ac.uk/press/news/2026/07/research-students-win-yorke-prizes-excellence) [[Request access ↗︎]](https://doi.org/10.17863/CAM.115485)
+- **July 2026:** My PhD thesis was awarded the [Yorke Prize](https://www.law.cam.ac.uk/press/news/2026/07/research-students-win-yorke-prizes-excellence) by the Cambridge Faculty of Law.
+- **July 2026:** Published [*Artificial Intelligence &amp; Justice*](https://doi.org/10.17863/CAM.132259) with the Nuffield Foundation.
+- **May 2026:** [*From Estimation to Discrimination*](https://doi.org/10.1111/1468-2230.70045) published in the *Modern Law Review*.
+- **November 2025:** *Detecting Legal Citations in United Kingdom Court Judgments* received an [EMNLP Senior Area Chair Highlight Award](https://2025.emnlp.org/program/awards/).
+- **October 2025:** Appointed [Research Fellow in Law at St John’s College, Cambridge](https://www.joh.cam.ac.uk/about-us/news-and-research/academics-in-the-arts-humanities-and-sciences-join-st-johns-fellowship).
 
-- ⚖️ **July 2026 — Nuffield Foundation Report: Artificial Intelligence & Justice**  
-*Artificial Intelligence & Justice*, commissioned for Nuffield's Public Right to Justice programme, finds that AI is being deployed across civil and family justice and advice services faster than its effects on users can be independently evaluated: of 45 tools identified, only seven have any public evaluation. It calls for greater transparency, stronger oversight and evaluation research focused on the outcomes that matter most to the people the justice system serves. [[Read the report ↗︎]](https://doi.org/10.17863/CAM.132259) [[Press release ↗︎]](https://www.nuffieldfoundation.org/news/ai-rollout-justice-system-outpacing-scrutiny-new-report) [[Policy brief ↗︎]](https://www.nuffieldfoundation.org/publications/artificial-intelligence-justice)
+## Selected Papers
 
-- 📄 **May 2026 — New Article in the Modern Law Review**  
-  <em>From Estimation to Discrimination</em> examines predictive uncertainty in machine learning systems under UK anti-discrimination law. It argues that deliberate modelling choices introduce epistemic uncertainty that can produce discriminatory outcomes, and that legal analysis should attach to those design choices rather than to model outputs alone. [[Read the article ↗︎]](https://doi.org/10.1111/1468-2230.70045)    
-  
-- 📄 **December 2025 — New Article in Computer Law & Security Review**  
-   On the UK's Data (Use and Access) Act 2025 that weakens UK GDPR-style safeguards for automated decision-making. [[Read the article ↗︎]](https://doi.org/10.1016/j.clsr.2025.106247) [[Read the summary blog post ↗︎]](https://blogs.law.ox.ac.uk/oblb/blog-post/2026/01/mind-gap-securing-algorithmic-explainability-credit-decisions-beyond-uk-gdpr)  
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1111/1468-2230.70045">From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law</a><br>
+<b>Holli Sargeant</b><br>
+The Modern Law Review (2026)<br>
+<a class="badge" href="https://doi.org/10.1111/1468-2230.70045">DOI</a>
+</div>
 
-- 🏆 **November 2025 — EMNLP Senior Area Chair Highlight Award**  
-  Awarded to the top 2.5% of accepted papers for a “seminal contribution.”  
-  Our paper, <em>Detecting Legal Citations in United Kingdom Court Judgments</em>, introduces a new dataset and method for recognising citation structure in UK judgments, with applications for legal search, retrieval, and AI-assisted reasoning. [[Award announcement ↗︎]](https://2025.emnlp.org/program/awards/) [[Read the paper ↗︎]](https://aclanthology.org/2025.emnlp-main.1361/)  
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1016/j.clsr.2025.106247">Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR</a><br>
+<b>Holli Sargeant</b><br>
+Computer Law &amp; Security Review (2026)<br>
+<a class="badge" href="https://doi.org/10.1016/j.clsr.2025.106247">DOI</a> <a class="badge" href="https://blogs.law.ox.ac.uk/oblb/blog-post/2026/01/mind-gap-securing-algorithmic-explainability-credit-decisions-beyond-uk-gdpr">Blog</a>
+</div>
 
-- 📄 **October 2025 — OECD Policy Paper on Access to Justice for SMEs**  
-  Published with Felix Steffek as principal authors.  
-  <em>Supporting Businesses Through Better Justice Systems: A Focus on SMEs and Entrepreneurship</em> sets out principles for improving SMEs’ access to justice and proposes a Code of Dispute Resolution for Businesses. [[Read the policy paper ↗︎]](https://doi.org/10.1787/1791ca66-en)  
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1145/3805689.3806763">Prompt Governance? On Governing Technologies Governed by Natural Language</a><br>
+Anna Neumann, <b>Holli Sargeant</b>, Jatinder Singh<br>
+FAccT (2026)<br>
+<a class="badge" href="https://doi.org/10.1145/3805689.3806763">ACM</a>
+</div>
 
-- 🎓 **October 2025 — Appointed Research Fellow in Law, St John’s College, Cambridge**  
-  St John’s College announced the election of new Research Fellows. [[Read the announcement ↗︎]](https://www.joh.cam.ac.uk/about-us/news-and-research/academics-in-the-arts-humanities-and-sciences-join-st-johns-fellowship)  
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.18653/v1/2025.emnlp-main.1361">Detecting Legal Citations in United Kingdom Court Judgments</a><br>
+<b>Holli Sargeant</b>, Andreas Östling, Måns Magnusson<br>
+EMNLP (2025) · Senior Area Chair Highlight<br>
+<a class="badge" href="https://aclanthology.org/2025.emnlp-main.1361/">ACL</a>
+</div>
 
-## Recent publications
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1145/3715275.3732015">Formalising Anti-Discrimination Law in Automated Decision Systems</a><br>
+<b>Holli Sargeant</b>, Måns Magnusson<br>
+FAccT (2025)<br>
+<a class="badge" href="https://doi.org/10.1145/3715275.3732015">ACM</a>
+</div>
 
-- **[From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law](https://doi.org/10.1111/1468-2230.70045)**.<br>
-   *The Modern Law Review (2026).* <br>
-   <u>Holli Sargeant</u>.
+<div class="pub">
+<a class="pub-title" href="https://doi.org/10.1145/3715275.3732016">Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden</a><br>
+<b>Holli Sargeant</b>, Hannes Waldetoft, Måns Magnusson<br>
+FAccT (2025)<br>
+<a class="badge" href="https://doi.org/10.1145/3715275.3732016">ACM</a>
+</div>
 
-- **[Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR](https://doi.org/10.1016/j.clsr.2025.106247)**.<br>
-   *Computer Law & Security Review, 60, 106247 (2026).* <br>
-   <u>Holli Sargeant</u>.
-
-- **[Prompt Governance? On Governing Technologies Governed by Natural Language](https://doi.org/10.1145/3805689.3806763)**.<br> 
-  *Proceedings of the ACM Conference on Fairness, Accountability and Transparency (FAccT), 6466 - 6509.* <br> 
-   Anna Neumann, <u>Holli Sargeant</u>, Jatinder Singh. <br> 
-
-- **[Detecting Legal Citations in United Kingdom Court Judgments](https://doi.org/10.18653/v1/2025.emnlp-main.1361)**.<br>
-   *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 26798–26824 (2025)*. <br>
-   <u>Holli Sargeant</u>, Andreas Östling, Måns Magnusson.<br>
-
-- **[Formalising Anti-Discrimination Law in Automated Decision Systems](https://doi.org/10.1145/3715275.3732015)**.<br>
-   *Proceedings of the Conference on Fairness, Accountability and Transparency (FAccT), 181-194 (2025)*. <br>
-   <u>Holli Sargeant</u>, Måns Magnusson.<br>
-
-- **[Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden](https://doi.org/10.1145/3715275.3732016)**.<br>
-   *Proceedings of the Conference on Fairness, Accountability and Transparency (FAccT), 195-208 (2025)*.<br>
-   <u>Holli Sargeant</u>, Hannes Waldetoft, Måns Magnusson.<br>
-
-[Full list →](/publications/)
-
+[Full list of publications](/publications/)
