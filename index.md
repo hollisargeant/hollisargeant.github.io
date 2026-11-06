@@ -3,7 +3,8 @@ layout: default
 title: "Holli Sargeant"
 ---
 
-<img class="profile-picture" src="/assets/img/avatar-web.jpg" alt="Holli Sargeant">
+<img class="profile-picture" src="/assets/img/avatar.jpg" alt="Holli Sargeant">
+
 
 ## About Me
 
