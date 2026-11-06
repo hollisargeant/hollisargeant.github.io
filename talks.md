@@ -3,21 +3,14 @@ layout: default
 title: "Talks & events"
 permalink: /talks/
 ---
-<div class="header-section">
-
-   <h1 class="header-name"><a href="{{ '/' | relative_url }}">Holli Sargeant</a></h1>
-
-<ul class="site-nav">
-  <li><a href="/publications/">Publications</a></li>
-   <li><a href="/talks/">Talks</a></li>
-  <li><a href="/cv/">CV</a></li>
-  <li><a href="/contact/">Contact</a></li>
-</ul>
-
-<hr class="rule" />
-</div>
 
 ## Selected talks & events 
+
+- **AI in the Justice System: Evidence from the Nuffield Foundation Report — AI Insights Seminar**  
+  *Open Innovation Team / Policy Insights Unit, for UK civil servants (around 220 attendees) — October 2026*
+
+- **Law as Data: Extracting Computational Insights from Legal Text — SweCSS Symposium**  
+  *Söderköpings Brunn, Sweden — October 2026*
 
 - **Prompt Governance? On Governing Technologies Governed by Natural Language — ACM FAccT 2026**  
   *ACM FAccT Montreal — June 2026 (with Anna Neumann and Jatinder Singh)*
@@ -52,5 +45,3 @@ permalink: /talks/
   *ACM FAccT Athens — June 2025*  
   Presented two papers on algorithmic discrimination and legal evaluations of ML classifiers.  
   [[Presentation on Classifying Hate ↗︎]](https://youtu.be/iTlBDnqURcY?si=0RztC3HSPCRXH8G-) [[Presentation on Formalising Discrimination ↗︎]](https://youtu.be/UAtJCRvom1s?si=8ucVNRkpTnHtjDtW)
-  
-  
