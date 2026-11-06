@@ -3,40 +3,27 @@
    ========================= */
 :root{
   --text:#111;
-  --muted:#666;
   --link:#2899e2;       /* lighter sky blue */
   --rule:#e6e6e6;
   --colw:700px;         /* content width */
   --padx:1.5rem;        /* side padding */
-
-  /* Announcement box colours */
-  --announcement-blue:#e8f4fc;
-  --announcement-green:#e8f4ec;
-  --announcement-yellow:#fff6df;
-  --announcement-pink:#fcecf0;
-  --announcement-grey:#f1f2f3;
 }
 
-html{ font-size:16px; }
-html { scrollbar-gutter: stable; }
+html{ font-size:17px; }
 
 body{
-  font-family:"Lora", Georgia, serif;
-  font-weight:400;
-  line-height:1.8;
-  color:var(--text);
-  -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;
-  text-rendering:optimizeLegibility;
   margin:0;
+  font-family:"Lora", Georgia, serif;
+  line-height:1.6;
+  color:var(--text);
   background:#fff;
+  -webkit-font-smoothing:antialiased;
 }
 
-/* Main centered column */
 .container{
   max-width:var(--colw);
   margin:0 auto;
-  padding:0 var(--padx) 4rem;
+  padding:0 16px 5rem;
 }
 
 /* Headings (Playfair Display) */
