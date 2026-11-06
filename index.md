@@ -27,42 +27,36 @@ My research focuses on the intersection of **law and artificial intelligence**. 
 <a class="pub-title" href="https://doi.org/10.1111/1468-2230.70045">From Estimation to Discrimination: Algorithmic Bias, Predictive Uncertainty, and Anti-Discrimination Law</a><br>
 <b>Holli Sargeant</b><br>
 The Modern Law Review (2026)<br>
-<a class="badge" href="https://doi.org/10.1111/1468-2230.70045">DOI</a>
 </div>
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1016/j.clsr.2025.106247">Mind the Gap: Securing Algorithmic Explainability for Credit Decisions Beyond the UK GDPR</a><br>
 <b>Holli Sargeant</b><br>
 Computer Law &amp; Security Review (2026)<br>
-<a class="badge" href="https://doi.org/10.1016/j.clsr.2025.106247">DOI</a> <a class="badge" href="https://blogs.law.ox.ac.uk/oblb/blog-post/2026/01/mind-gap-securing-algorithmic-explainability-credit-decisions-beyond-uk-gdpr">Blog</a>
 </div>
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3805689.3806763">Prompt Governance? On Governing Technologies Governed by Natural Language</a><br>
 Anna Neumann, <b>Holli Sargeant</b>, Jatinder Singh<br>
 FAccT (2026)<br>
-<a class="badge" href="https://doi.org/10.1145/3805689.3806763">ACM</a>
 </div>
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.18653/v1/2025.emnlp-main.1361">Detecting Legal Citations in United Kingdom Court Judgments</a><br>
 <b>Holli Sargeant</b>, Andreas Östling, Måns Magnusson<br>
 EMNLP (2025) · Senior Area Chair Highlight<br>
-<a class="badge" href="https://aclanthology.org/2025.emnlp-main.1361/">ACL</a>
 </div>
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3715275.3732015">Formalising Anti-Discrimination Law in Automated Decision Systems</a><br>
 <b>Holli Sargeant</b>, Måns Magnusson<br>
 FAccT (2025)<br>
-<a class="badge" href="https://doi.org/10.1145/3715275.3732015">ACM</a>
 </div>
 
 <div class="pub">
 <a class="pub-title" href="https://doi.org/10.1145/3715275.3732016">Classifying Hate: Legal and Ethical Evaluations of ML-Assisted Hate Crime Classification and Estimation in Sweden</a><br>
 <b>Holli Sargeant</b>, Hannes Waldetoft, Måns Magnusson<br>
 FAccT (2025)<br>
-<a class="badge" href="https://doi.org/10.1145/3715275.3732016">ACM</a>
 </div>
 
 [Full list of publications](/publications/)
